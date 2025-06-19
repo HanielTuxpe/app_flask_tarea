@@ -13,6 +13,7 @@ MarkupSafe==3.0.2
 np==1.0.2
 numpy==2.3.0
 packaging==25.0
+pandas==2.2.2
 requests==2.32.4
 scikit-learn==1.7.0
 scipy==1.15.3
